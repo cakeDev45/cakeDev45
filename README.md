@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**cakeDev45/cakeDev45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cake, but you can call me whatever you'd like. I'm an indie game developer working on multiple projects at the moment. I specalize in Unreal Engine 4 for the most part. I'm also pretty good at 3D modelling and texturing.
 
-Here are some ideas to get you started:
+I can code in C#, however I am best at UE4's Blueprints.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on a big unannounced project.
+
+Here's some other platforms you can follow me on!
+
+[Twitter](https://twitter.com/Cake45214)
+[YouTube](https://www.youtube.com/Cake45)
+[GameJolt](https://gamejolt.com/@CakeEaters)
+[Itch](https://cake-eaters.itch.io/)
