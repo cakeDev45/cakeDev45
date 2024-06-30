@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Cake, and I do stuff in Unreal Engine.
+My name is Cake, and I do various things, but I mostly work in Unreal Engine, Blender, and Substance Painter.
 
 Follow me on other platforms!
 
