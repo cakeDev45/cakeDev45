@@ -10,6 +10,8 @@ Follow me on other platforms!
 
 [GameJolt](https://gamejolt.com/@Cake452)
 
+[Discord](I don't give out my Discord unless people ask, sorry!)
+
 ## Extra Links
 
 Check out my [website!](https://cakedev45.github.io/)
