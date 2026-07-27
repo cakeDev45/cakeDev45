@@ -6,11 +6,11 @@
 
 - 🌱 I'm currently learning **Bash/shell scripting and Linux**
 
-- 👯 I'm looking to collaborate on **Open source projects**
+- 👯 I'm looking to collaborate on **open source projects**
 
-- 🤝 I'm looking for help with **Learning shell scripting and linux!**
+- 🤝 I'm looking for help with **learning shell scripting and linux!**
 
-- 💬 Ask me about **Game design, game mapping and 3D art!**
+- 💬 Ask me about **game design, game mapping and 3D art!**
 
 - ⚡ Fun fact: **I am an amateur guitarist! My favorite bands are Linkin Park, blink-182 and Avenged Sevenfold**
 
