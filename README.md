@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Nik
 
-<!--
-**cakeDev45/cakeDev45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Game designer & 3D artist
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **Various different projects, games and other things!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **Bash/shell scripting and Linux**
+
+- 👯 I'm looking to collaborate on **Open source projects**
+
+- 🤝 I'm looking for help with **Learning shell scripting and linux!**
+
+- 💬 Ask me about **Game design, game mapping and 3D art!**
+
+- ⚡ Fun fact **Amateur guitarist! My favorite bands are Linkin Park, blink-182 and Avenged Sevenfold**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/cakeDev45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cakeDev45" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/godot" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=godot" alt="godot" width="40" height="40"/> </a></p>
+
