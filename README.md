@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **game design, game mapping and 3D art!**
 
-- ⚡ Fun fact: **I am an amateur guitarist! My favorite bands are Linkin Park, blink-182 and Avenged Sevenfold**
+- ⚡ Fun fact: **I am an amateur guitarist! My favorite bands are Linkin Park, blink-182 and Avenged Sevenfold and I am currently working on Garry's Mod maps!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
